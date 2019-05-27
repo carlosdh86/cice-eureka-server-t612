@@ -4,4 +4,4 @@ spring:
 
   cloud:
     config:
-      uri: http://localhost:8888
+      uri: http://user:pass@localhost:8888
